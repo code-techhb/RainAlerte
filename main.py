@@ -11,8 +11,8 @@ import smtplib
 
 # --------------------------------- API Call -------------------------------------------
 parameters = {
-    "lat": 12.094,
-    "lon": -34.233,
+    "lat": "Get your latitude",
+    "lon": "Get your longitude",
     "cnt": 4,
     "appid": key.api_key,
 
