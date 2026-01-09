@@ -21,6 +21,3 @@ If rain is detected in the forecast, an email notification is sent to a specifie
 
 If rain is forecasted, the script sends an email notification to the specified recipient.
 If no rain is forecasted, no email is sent.
-
-## What to expect
-Check this reel out: https://www.instagram.com/reel/C2ytSo_gh38/?igsh=dTUwam9mbno5YnF0
